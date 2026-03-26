@@ -4,8 +4,6 @@
 
 Soy analista de datos en el sector público (GCBA) y estudiante de Ciencias de Datos en la UBA. Estoy en proceso de transición hacia Data Science, construyendo una base sólida en análisis, programación y modelado.
 
-👉 Mi foco hoy: pasar de Data Analyst a Data Scientist con proyectos reales end-to-end.
-
 ---
 
 ## 🧠 Stack actual
@@ -59,5 +57,4 @@ Trabajo como analista de datos generando insights para la toma de decisiones en 
 * [*LinkedIn*](www.linkedin.com/in/fausto-tomás-rodriguez)
 
 ---
-
 💡 "Aprendiendo hoy para construir soluciones con datos mañana."
