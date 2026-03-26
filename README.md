@@ -4,7 +4,7 @@
 
 Soy analista de datos en el sector público (GCBA) y estudiante de Ciencias de Datos en la UBA. Estoy en proceso de transición hacia Data Science, construyendo una base sólida en análisis, programación y modelado.
 
----
+#
 
 ## 🧠 Stack actual
 
@@ -20,7 +20,7 @@ Soy analista de datos en el sector público (GCBA) y estudiante de Ciencias de D
 * Visualización (matplotlib / seaborn)
 * Machine Learning (próximamente)
 
----
+#
 
 ## 🎯 Roadmap
 
@@ -31,7 +31,7 @@ Actualmente siguiendo un plan progresivo:
 3. Proyectos end-to-end (data cleaning + insights + storytelling)
 4. Machine Learning
 
----
+#
 
 ## 📊 Proyectos
 
@@ -44,17 +44,17 @@ Objetivo: publicar proyectos que resuelvan problemas reales y muestren:
 * visualización
 * conclusiones accionables
 
----
+#
 
 ## 💼 Experiencia
 
 Trabajo como analista de datos generando insights para la toma de decisiones en el gobierno de la ciudad.
 
----
+#
 
 ## 📫 Contacto
 
 * [*LinkedIn*](www.linkedin.com/in/fausto-tomás-rodriguez)
 
----
+#
 💡 "Aprendiendo hoy para construir soluciones con datos mañana."
