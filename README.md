@@ -54,7 +54,7 @@ Trabajo como analista de datos generando insights para la toma de decisiones en 
 
 ## 📫 Contacto
 
-* [*LinkedIn*](www.linkedin.com/in/fausto-tomás-rodriguez)
+* [*LinkedIn*](https://www.linkedin.com/in/fausto-tomás-rodriguez)
 
 #
 💡 "Aprendiendo hoy para construir soluciones con datos mañana."
