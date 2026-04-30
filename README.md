@@ -1,4 +1,4 @@
-# 👋 Hola, soy Tito
+# 👋 Hola, soy Fausto
 
 ## 🚀 Data Scientist en formación
 
@@ -13,7 +13,7 @@ Soy analista de datos en el sector público (GCBA) y estudiante de Ciencias de D
 * Power BI
 * Estadística (fundamentos)
 
-## ⚙️ En construcción
+## ⚙️ Practicando...
 
 * Python para análisis de datos
 * Manipulación de datos (pandas, numpy)
