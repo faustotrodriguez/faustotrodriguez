@@ -11,7 +11,7 @@ Soy analista en el sector público (GCBA), donde gestiono la sincronización de 
 *   **Licenciatura en Ciencias de Datos (UBA):** En curso. Desarrollando fundamentos en estadística y computación
 *   **Transición a Data Engineering:** Actualmente en fase de especialización técnica, construyendo una base en DevOps y arquitectura de datos
 
-## ⚙️ Practicando...
+## ⚙️ Stack tecnológico
 
 ### **Data & BI** (base consolidada)
 * **SQL** (Extracción y manipulación)
