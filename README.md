@@ -1,60 +1,46 @@
 # 👋 Hola, soy Fausto
 
-## 🚀 Data Scientist en formación
+## 🏗️ Analista de Datos | Aspirante a Data Engineer
 
-Soy analista de datos en el sector público (GCBA) y estudiante de Ciencias de Datos en la UBA. Estoy en proceso de transición hacia Data Science, construyendo una base sólida en análisis, programación y modelado.
+Soy analista en el sector público (GCBA), donde gestiono la sincronización de datos y el desarrollo de tableros operativos. Actualmente estoy transicionando mi perfil hacia la **Ingeniería de Datos**, siento mucha curiosidad en la construcción de tuberías de datos (pipelines) robustas, automatización y arquitecturas escalables
 
-#
+---
 
-## 🧠 Stack actual
+## 🎓 Formación y Trayectoria
 
-* Excel (avanzado)
-* SQL
-* Power BI
-* Estadística (fundamentos)
+*   **Licenciatura en Ciencias de Datos (UBA):** En curso. Desarrollando fundamentos en estadística y computación
+*   **Transición a Data Engineering:** Actualmente en fase de especialización técnica, construyendo una base en DevOps y arquitectura de datos
 
 ## ⚙️ Practicando...
 
-* Python para análisis de datos
-* Manipulación de datos (pandas, numpy)
-* Visualización (matplotlib / seaborn)
-* Machine Learning (próximamente)
+### **Data & BI** (base consolidada)
+* **SQL** (Extracción y manipulación)
+* **Power BI** (Dashboards operativos y medidas DAX)
+* **Excel Avanzado** (Limpieza y validación de datos críticos)
+* **Python** (Análisis y visualización con pandas y matplotlib)
+* **Automatización** (Diseño de flujos con Power Automate y SharePoint)
 
-#
+### **Ingeniería** (En desarrollo)
+*   **Python:** Desarrollo de scripts para procesamiento de datos y automatización
+*   **Contenerización:** Configuración de entornos locales con Docker
 
-## 🎯 Roadmap
+### **Entorno de Trabajo**
+* **WSL2 / Linux Terminal**
+* **Git & GitHub** (Flujos de trabajo profesionales)
 
-Actualmente siguiendo un plan progresivo:
+---
 
-1. Fundamentos de análisis y BI ✅
-2. Python para análisis de datos ⏳
-3. Proyectos end-to-end (data cleaning + insights + storytelling)
-4. Machine Learning
+## 📊 Proyectos Destacados
 
-#
+* **Análisis de Movilidad Urbana:** Proyecto en desarrollo utilizando datos abiertos de la Ciudad de Buenos Aires para analizar patrones de transporte.
+* **Sistema de Notificaciones Automatizadas:** Implementación de flujos con Power Automate y SharePoint para optimizar la gestión interna.
 
-## 📊 Proyectos
-
-🔜 Próximamente: primeros proyectos en Python aplicados a análisis de datos.
-
-Objetivo: publicar proyectos que resuelvan problemas reales y muestren:
-
-* limpieza de datos
-* análisis exploratorio (EDA)
-* visualización
-* conclusiones accionables
-
-#
+---
 
 ## 💼 Experiencia
+Trabajo en la **Dirección General de Fiscalización (DGFIS)** del GCBA, liderando proyectos de integridad y sincronización de datos para la toma de decisiones operativas.
 
-Trabajo como analista de datos generando insights para la toma de decisiones en el gobierno de la ciudad.
-
-#
+---
 
 ## 📫 Contacto
-
-* [*LinkedIn*](https://www.linkedin.com/in/fausto-tomás-rodriguez)
-
-#
-💡 "Aprendiendo hoy para construir soluciones con datos mañana."
+* [**LinkedIn**](https://www.linkedin.com/in/fausto-tomás-rodriguez)
