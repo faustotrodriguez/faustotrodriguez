@@ -26,7 +26,7 @@ Soy analista en el sector público (GCBA), donde gestiono la sincronización de 
 
 ### **Entorno de Trabajo**
 * **WSL2 / Linux Terminal**
-* **Git & GitHub** (Flujos de trabajo profesionales)
+* **Git & GitHub**
 
 ---
 
